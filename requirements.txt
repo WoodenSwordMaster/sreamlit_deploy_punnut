@@ -1,0 +1,6 @@
+torch
+nibabel
+nilearn
+matplotlib
+scipy
+huggingface_hub
